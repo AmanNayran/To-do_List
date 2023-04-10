@@ -1,0 +1,4 @@
+[dist]
+base = "."
+command = "yarn run build"
+pulish = "./dist/"
